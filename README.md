@@ -1,5 +1,6 @@
+<h2 align="center">Insung Hwang</h2>
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Insung Hwang — Turning data into decisions, and AI into useful tools." width="100%" />
+  Turning data into decisions, and AI into useful tools.
 </p>
 
 <p align="center">
