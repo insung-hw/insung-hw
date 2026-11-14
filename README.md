@@ -1,4 +1,4 @@
-### Hi, I'm Insung 👋
+## Hi, I'm Insung 👋
 
 I explore how data and AI can support business decisions—from understanding customers to forecasting markets and building useful tools.
 
