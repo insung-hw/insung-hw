@@ -1,14 +1,3 @@
-<h2 align="center">Insung Hwang</h2>
-<p align="center">
-  Turning data into decisions, and AI into useful tools.
-</p>
-
-<p align="center">
-  <strong>Customer Analytics &nbsp; · &nbsp; Predictive Modeling &nbsp; · &nbsp; Applied AI</strong>
-</p>
-
-<br />
-
 ### Hi, I'm Insung 👋
 
 I explore how data and AI can support business decisions—from understanding customers to forecasting markets and building useful tools.
